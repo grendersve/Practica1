@@ -1,0 +1,10 @@
+C:\Users\Администратор\source\repos\DF\DF\bin\Debug\DF.exe.config
+C:\Users\Администратор\source\repos\DF\DF\bin\Debug\DF.exe
+C:\Users\Администратор\source\repos\DF\DF\bin\Debug\DF.pdb
+C:\Users\Администратор\source\repos\DF\DF\obj\Debug\DF.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\DF\DF\obj\Debug\DF.Form1.resources
+C:\Users\Администратор\source\repos\DF\DF\obj\Debug\DF.Properties.Resources.resources
+C:\Users\Администратор\source\repos\DF\DF\obj\Debug\DF.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\DF\DF\obj\Debug\DF.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\DF\DF\obj\Debug\DF.exe
+C:\Users\Администратор\source\repos\DF\DF\obj\Debug\DF.pdb
